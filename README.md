@@ -14,4 +14,4 @@ not on social media network advertisements.</p>
 # Render 
 <p align="justify"> Render is a unified cloud to build and run all your apps and websites with free SSL, global CDN, private networks, and automatic deploys from Git. 
 Based on this, I have created a live deployment of <a href="https://dashboard.render.com/"> Dashboard in Social Network Ads</a> which allows the user 
-to enter details such as UserId, Age, and Estimated Salary and predict the output whether the user has purchased the product or not using FlaskApp and Machine Learning Model.</p>
+to enter details such as UserId, Age, and Estimated Salary and predict the output whether the user has purchased the product or not using FlaskApp and Machine Learning.</p>
