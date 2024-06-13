@@ -35,7 +35,7 @@ def predict():
         else:
             result = "No"
 
-        return render_template('index.html', purchase = result)
+        return render_template('index.html', result = result)
 
 if __name__=='__main__':
     app.run(debug=True)
