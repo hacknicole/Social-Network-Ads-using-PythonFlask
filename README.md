@@ -16,4 +16,4 @@ not on social media network advertisements.</p>
 Based on this, I have created a hosted website in Social Network Ads which allows the user to enter details such as UserId, Age, and Estimated Salary and predict the output 
 whether the user has purchased the product or not using FlaskApp and Machine Learning.</p>
 
-Hosted Webiste: <a href="https://social-network-ads.onrender.com"> Purchase Prediction </a>
+Hosted Website: <a href="https://social-network-ads.onrender.com"> Purchase Prediction </a>
